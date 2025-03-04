@@ -23,8 +23,7 @@ Font Awesome for icons
 Setup Instructions
 
 Clone the Repository
-Copygit clone https://github.com/yourusername/event-dashboard.git
-cd event-dashboard
+Copygit clone https://github.com/Vinay-cyrpto/Event-dashboard.git
 
 Open the Project
 
